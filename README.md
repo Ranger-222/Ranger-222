@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranger-222
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning Unreal Engine C++.
+- 🌱 I’m currently learning Web Devlopment and Java.
 - 📫 How to reach me - Email piyushtomar0731@gmail.com
 
 <!---
